@@ -1,3 +1,6 @@
+require "active_support"
+require "active_support/core_ext"
+require "tokiyomi"
 require "ruboty/deadline/version"
 require "ruboty/handlers/deadline"
 

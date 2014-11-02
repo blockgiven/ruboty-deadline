@@ -1,5 +1,3 @@
-require 'tokiyomi'
-
 module Ruboty
   module Deadline
     module Actions
